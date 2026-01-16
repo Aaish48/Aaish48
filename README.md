@@ -1,4 +1,4 @@
-![logo](https://github.com/Aaish48/Aaish48/blob/main/github-header-banner.png)
+![logo](https://github.com/Aaish48/Aaish48/blob/main/github-header-banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Aaish</h1>
 <h3 align="center">A passionate Computer Science Student from India.</h3>
 <img align="right" alt="CODING" width="300" src="https://usagif.com/wp-content/uploads/gifs/black-cat-7.gif">
